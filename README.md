@@ -15,5 +15,6 @@ The script will list all .deb files found in the directory and subdirectories. E
 Confirm the installation when prompted.
 If you want to exit without installing, simply enter 0 when asked to choose a file.
 Please note that the script uses sudo dpkg -i to install the packages, so you might be asked to enter your password during the installation process.
+###
 ![Screen of the Script](https://github.com/6a6ak/debinstaller/blob/master/debinstaller.sh.png)
 
