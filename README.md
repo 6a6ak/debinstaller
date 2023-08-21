@@ -18,3 +18,10 @@ Please note that the script uses sudo dpkg -i to install the packages, so you mi
 ###
 ![Screen of the Script](https://github.com/6a6ak/debinstaller/blob/master/debinstaller.sh.png)
 
+## How It Works
+
+For a comprehensive walkthrough on how our project works, please watch the following video tutorial:
+
+[![Watch the video](https://img.youtube.com/vi/gbzvVCsukm4/maxresdefault.jpg)](https://youtu.be/gbzvVCsukm4)
+
+Click on the image above to view the video.
